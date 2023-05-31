@@ -21,8 +21,8 @@ Print the reversed number.
 
 ## Program:
 ~~~
-NAME : ANISH MJ
-REG_NO : 212221230005
+Name : Thirugnanamoorthi G
+Reg no : 212221230117
 ~~~
 ~~~
 using System;
@@ -63,7 +63,8 @@ namespace reverse
 
 
 ## Output:
-![p](op.png)
+![1](https://github.com/Thiru-AI/Recursive-function/assets/94980741/2a049468-9f51-46c8-8e91-6d175f0b8ccd)
+
 
 ## Result:
 C# program to reverse a number using recursive function is executed successfully.
